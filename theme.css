@@ -1,0 +1,58 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+
+  #search {
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  #results {
+    margin-top: 20px;
+  }
+
+  .result-item {
+    margin-bottom: 15px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .result-card {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .result-card p {
+    margin: 10px 0;
+  }
+
+  strong {
+    color: #0056b3;
+  }
+
+  hr {
+    margin-top: 15px;
+    border: 1px solid #e0e0e0;
+  }
+
+  .no-results {
+    font-style: italic;
+    color: gray;
+  }
+</style>
