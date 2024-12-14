@@ -1,27 +1,15 @@
-// Đọc tệp JSON (hoặc sử dụng dữ liệu tĩnh)
-const jsonData = [
-  {
-    "src": "Hello world",
-    "tgt": "Xin chào thế giới",
-    "context": {
-      "system": "Greeting"
-    }
-  },
-  {
-    "src": "How are you?",
-    "tgt": "Bạn khỏe không?",
-    "context": {
-      "system": "Question"
-    }
-  },
-  {
-    "src": "Scrambled eggs",
-    "tgt": "Trứng bác",
-    "context": {
-      "system": "Food"
-    }
-  }
-];
+let jsonData = [];  // Mảng để chứa dữ liệu JSON
+
+// Tải tệp JSON từ server khi trang được tải
+window.onload = function() {
+  fetch('output.json')  // Tải tệp output.json từ server
+    .then(response => response.json())  // Chuyển đổi phản hồi thành JSON
+    .then(data => {
+      jsonData = data;  // Lưu dữ liệu JSON vào biến jsonData
+      console.log('Dữ liệu JSON đã được tải:', jsonData);
+    })
+    .catch(error => console.error('Lỗi khi tải tệp JSON:', error));
+};
 
 // Hàm tìm kiếm trong JSON
 function searchJSON() {
