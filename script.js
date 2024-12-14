@@ -35,16 +35,23 @@ function displayResults(results) {
   resultsContainer.innerHTML = "";  // Xóa kết quả cũ
 
   if (results.length === 0) {
-    resultsContainer.innerHTML = "<p>No results found.</p>";
+    resultsContainer.innerHTML = "<p style='font-style: italic; color: gray;'>No results found.</p>";
   } else {
     results.forEach(result => {
       const resultElement = document.createElement("div");
+      resultElement.classList.add("result-item");
+
+      // Hiển thị thông tin
       resultElement.innerHTML = `
-       
-        <p><strong>Target:</strong> ${result.tgt}</p>
+        <div class="result-card">
      
+          <p><strong>Target:</strong> ${result.tgt}</p>
+     
+        </div>
         <hr>
       `;
+
+      // Thêm kết quả vào container
       resultsContainer.appendChild(resultElement);
     });
   }
