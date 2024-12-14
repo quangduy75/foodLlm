@@ -1,0 +1,696 @@
+[
+    {
+        "src": "Hôm nay tôi muốn ăn thứ gì đó mịn màng và sảng khoái, chua và cay. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không vấn đề gì, bún chua cay Trùng Khánh mịn màng, sảng khoái, chua chua cay cay cho món khai vị. Nguyên liệu bạn cần chuẩn bị là: bột khoai lang · 100g\nĐậu phộng ngũ vị ·30g\nMù tạt ngâm ·20g\nMè trắng hạt · 10g\nHẹ·1 cây\nNgò·2 cây\nHoa Ớt·lượng vừa phải\nỚt khô·2 miếng, gia vị gồm: dầu ăn·30g\nDầu mè·1 thìa cà phê\nNước dùng ·18 thìa canh\nGiấm Balamic ·1 thìa cà phê\nBột tiêu ·tsp\nBột ớt·tsp\nTinh bột muối·Tsp\nMSG·Tsp. Phương pháp cụ thể như sau: 1. Bột khoai lang rửa sạch, ngâm nước; rau mùi rửa sạch, cắt khúc; củ cải thái nhỏ;\n2. Đổ dầu vào nồi, đun nóng, cho hạt tiêu vào xào chín. ớt, bột tiêu, bột ớt, Đối với hạt vừng trắng, cho nước luộc vào đun sôi rồi cho vào tô;\n3. Đun sôi nửa nồi nước, cho tinh bột khoai lang vào chần qua rồi cho vào. vào tô súp;\n4. Thêm bột ngọt, giấm balsamic, muối tinh, đậu phộng ngũ vị, mù tạt ngâm, dầu mè, rắc thêm từng múi rau mùi và hành lá xắt nhỏ: bạn có thể làm cay theo sở thích của mình.",
+        "context": {   "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món tôm trộn đậu đũa cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món tôm khô đậu đũa này gồm: đậu đũa mềm·200g\nTôm·50g\nớt đỏ·1\nớt vàng·1\nghẹ·1\n n Gừng · 1 miếng nhỏ, gia vị bao gồm: dầu mè · 2 thìa cà phê\n giấm balsamic · 1 thìa cà phê\n Muối tinh · 1 thìa cà phê\n bột ngọt · thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món gà viên om có ​​đặc điểm gì",
+        "tgt": "Đặc điểm của gà viên om là: nước đặc, đậm đà, tươi ngon.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó ngon, hấp dẫn, mịn màng và sảng khoái. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không sao đâu, món mì thịt heo xé và mì bắp cải muối này thơm và hấp dẫn, mịn màng và sảng khoái. Nguyên liệu cần chuẩn bị là: mì·200g\nNạc nạc·100g\nThịt lợn băm·50g\n n ớt đỏ · 1, gia vị gồm: dầu ăn · 20 gam\n dầu mè · 1 thìa cà phê\n nước tương · 1 thìa cà phê\n đường · 1 thìa cà phê\n bột ngọt · 1 thìa cà phê, cách làm cụ thể như sau: 1. Thịt lợn nạc rửa sạch, cắt thành từng miếng, rửa sạch và cắt cải xanh thành từng đoạn dài; rửa sạch và cắt ớt đỏ thành từng miếng;\n2. Đổ dầu vào, đun nóng, cho thịt lợn thái miếng vào xào cho đến khi chín. Thịt lợn xé sợi đổi màu, cho mù tạt, ớt đỏ, nước tương, đường, bột ngọt và dầu mè vào, đảo đều rồi đổ ra thì là vải;\n3. Luộc mì, cho vào tô, đổ nguyên liệu đã chiên lên trên rồi thêm nước súp trong. Cuối cùng, tôi sẽ mách bạn một số mẹo: nấu mì cho đến khi chín rồi xào chín cho thấm nước súp. , không tệ lắm đâu",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món vịt thơm sốt gừng",
+        "tgt": "Công thức cụ thể của món Vịt thơm sốt gừng” như sau . Gừng rửa sạch, cắt phần lớn thành sợi, phần còn lại xay thành vụn, dùng gạc ép lấy nước cốt \n 2. Rửa sạch vịt; , cắt thành từng miếng, chần qua nước sôi Chần rồi vớt ra;\n3. Đổ dầu vào nồi đun nóng, cho gừng thái sợi vào xào cho thơm, thêm miếng vịt vào xào chung. Xào thêm muối, sau đó cho rượu nấu và một ít nước vào đun sôi, tắt bếp;\n4. Cho miếng vịt vào tô rồi cho vào nồi hấp, thêm nước gừng, hấp chín. đun lửa lớn trong khoảng 2 giờ, cuối cùng rắc gừng cắt nhỏ. Cuối cùng, tôi sẽ cho bạn một lời khuyên Nếu bạn loại bỏ mỡ khỏi da vịt thì món súp vịt sẽ tươi và ngon hơn",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món da cá ba chỉ",
+        "tgt": "Hướng dẫn cụ thể món da cá ba chỉ như sau:\n 1. Da cá rửa sạch, thái nhỏ; ớt đỏ, ớt chuông xanh, ớt chuông vàng rửa sạch, ớt chuông rửa sạch, tỏi băm nhỏ.\n2. Cho da cá xé nhỏ, lát tỏi và ớt cắt lát vào tô, thêm tất cả gia vị vào, trộn đều và dọn ra. Cuối cùng, tôi sẽ cho bạn một lời khuyên: khi mua hãy chú ý đến da cá, đừng mua cá. Da cá đã qua xử lý kiềm có màu sáng, hàm lượng nước cao, độ đàn hồi kém, dễ tiết nước khi nấu chín, có mùi vị khó chịu, có mùi kiềm.",
+        "context": 
+        {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin giới thiệu cho tôi 8 món nguội",
+        "tgt": "Tôm bụt\nCá dấm già\nCá đù nhỏ màu vàng giòn\nCà tím tươi\nDưa chuột móc vàng\nCua chiên gừng hành\nCá chép Douban\nQuế nếp củ sen",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món cà tím hầm vị cá",
+        "tgt": "Công thức cụ thể món cà tím hầm hương cá như sau: 1. Cắt cà tím thành từng miếng vừa ăn, cho dầu vào nồi, khi dầu nóng khoảng 90% thì cho cà tím vào xào cho đến khi cà tím chuyển màu. cứng mềm. Vớt ra để ráo; rửa sạch, băm nhỏ hành, gừng, tỏi;\n2. Cho dầu vào nồi rồi xào hành, gừng, tỏi và đậu băm cho đến khi có mùi thơm. 3. Sau đó cho cà tím vào, thêm rượu nấu, nước tương, muối vào xào đều, sau đó cho một bát nước vào, đun sôi trên lửa lớn rồi đun nhỏ lửa cho đến khi cà tím có mùi thơm thì cho cà tím vào; đường và giấm cho vừa ăn, và cuối cùng là làm đặc với tinh bột nước. Cuối cùng, tôi sẽ cho bạn một lời khuyên: đun nhỏ lửa trên lửa nhỏ một lúc để cà tím mềm hơn và có hương vị hơn.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó thơm ngon hấp dẫn. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không thành vấn đề, món đậu nghiền hộp tiêu xanh này vừa thơm vừa sảng khoái, màu sắc đẹp mắt. Nguyên liệu cần chuẩn bị là: ớt chuông xanh · 200 g\n ớt đỏ · 1\n khoai tây · 100 g\n hẹ · 3 \nGừng · 1 miếng nhỏ \n Tinh bột · lượng thích hợp, gia vị gồm: dầu ăn · 50 gam \n Muối tinh · 1 thìa cà phê \n Đường trắng · 1 thìa cà phê \n Bột ngọt · thìa cà phê Cách làm cụ thể như sau: 1. ớt chuông xanh Bỏ phần trên, bỏ hạt, gọt vỏ khoai tây và cắt thành miếng lớn, gọt vỏ và băm nhỏ gừng, cắt hành lá thành hoa và băm ớt đỏ;\n2. thêm gừng, hành lá, ớt đỏ, thêm muối tinh và bột ngọt, Khuấy đều đường và tinh bột, cho ớt xanh vào và để riêng;\n3. Cho dầu vào nồi, đun nóng, cho ớt chuông xanh vào xào trên lửa nhỏ, múc ra đĩa, cuối cùng là phục vụ. Mọi đề xuất: ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món tôm chiên cần những nguyên liệu và gia vị nào?",
+        "tgt": "Nguyên liệu cần có cho món tôm chiên bao gồm: tôm sông · 300g\n hành lá · 1\n gừng · 1 miếng nhỏ\n ớt khô · 5 miếng, và gia vị gồm: dầu ăn · 500g (đặc Lượng tiêu thụ 30 gam)\nDầu mè · 1 thìa cà phê\nXì dầu ·1 thìa cà phê\nRượu nấu ăn ·2 thìa cà phê\n Giấm balsamic ·1 thìa cà phê\nMuối tinh ·1 thìa cà phê\nĐường·tsp\nMSG· thìa nhỏ","context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món cà ri gà có đặc điểm gì",
+        "tgt": "Đặc điểm của gà viên cà ri là: màu vàng nhạt và hương vị cà ri đậm đà.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cháo tiêu táo gai có đặc điểm gì",
+        "tgt": "Đặc điểm của cháo tiêu hóa táo gai là: ngọt và hơi chua, ăn ngon và dễ tiêu.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin hãy giúp tôi giới thiệu một số món ăn về sản phẩm từ đậu nành",
+        "tgt": "Hẹ khô\nDa Đậu Phụ Bát Bảo",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin giới thiệu cho tôi 9 món thịt heo",
+        "tgt": "Thịt lợn om Mei Cai\n Thịt lợn nướng tảo bẹ\nThịt lợn Dongpo\n Thịt lợn luộc lát\n Thịt lợn nướng hạt dẻ\n Cà rốt và thịt lợn xào\n Tương ớt Babao\n Xuewang luộc\n Bụng lợn da giòn ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó tươi sáng, đẹp mắt, tươi và ngon. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không vấn đề gì, món đậu hủ muối tiêu sáng sủa, đẹp mắt, hương vị tươi ngon. Nguyên liệu bạn cần chuẩn bị là: đậu phụ · 250 gram\n ớt đỏ · 1\n ớt xanh · 1\n hẹ · 1\n Tỏi · 6 tép, gia vị gồm: dầu ăn · 250g (mức tiêu thụ thực tế 40g)\nTiêu đen·tsp\nMuối tiêu·tsp\nMuối tinh ·tsp\nMSG·tsp, cách làm cụ thể Như sau: 1. Đậu phụ rửa sạch, cắt thành từng miếng vuông nhỏ; bỏ cuống và hạt của ớt xanh và đỏ rồi cắt hẹ thành từng khoanh;\n2. Đổ dầu vào và khi nóng 80%. cho đậu phụ cắt miếng vào nồi đun nóng khoảng 80%. Khi chín vàng, vớt ra để ráo dầu;\n3. Để lại một ít dầu trong nồi, xào hành tây và tỏi băm trên lửa lớn. thêm ớt vòng, muối tinh, bột ngọt, tiêu đen, hạt tiêu Tứ Xuyên và muối, khuấy đều và dùng ;\n4. Trộn tất cả các gia vị với đậu phụ chiên. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Vì thịt xông khói đã mặn nên bạn không cần thêm muối ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm nấm hương hầm hạnh nhân, nhãn",
+        "tgt": "Công thức cụ thể của món bạch tuộc hầm hạnh nhân và nhãn như sau: 1. Ngâm hạnh nhân ngọt trong nước nóng rồi bóc bỏ màng hạt.\n2. Ngâm thịt nhãn vào nước sôi để nguội, vớt bỏ vỏ. tạp chất và rửa sạch nấm trắng.\n3. Cho nước, đường phèn và các nguyên liệu trên vào nồi, đun sôi ở lửa lớn rồi giảm lửa nhỏ đun liu riu cho đến khi nấm trắng mềm và dẻo. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Súp nấm mèo nên ninh nhừ và ăn trong ngày vì dễ sinh ra độc tố theo thời gian \nNếu để vào tủ lạnh trước khi ăn thì hương vị sẽ ngon hơn ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó thơm và hấp dẫn, hơi cay và ngon. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không sao đâu, món cá trê tỏi có mùi thơm hấp dẫn, vị hơi cay thơm ngon. Nguyên liệu bạn cần chuẩn bị là: 1 con cá trê (khoảng 750 gram)\nỚt đỏ·2 miếng\nHẹ·1 cọng\nGừng·1 nhỏ miếng\nTỏi·15 tép, gia vị gồm: dầu ăn·50g\n Nước tương · 1 thìa \n Nước dùng · 10 thìa \n Rượu nấu · 1 thìa \n Pixian Douban · 3 thìa \n Giấm balsamic · 1 thìa \n Muối tinh · 1 thìa cà phê \n Bột ngọt · thìa nhỏ Cách làm như sau : 1. Cá trê sau khi giết mổ rửa sạch, cắt thành từng miếng; ớt rửa sạch, cắt khúc; Rửa sạch, cắt lát gừng và cắt cải xoong thành từng miếng nhỏ;\n2. Đun nóng chảo trên lửa lớn, đổ dầu vào xào cải xoong cho đến khi dầu chuyển sang màu đỏ. Thêm hành tây, gừng và nước kho. sau đó lần lượt cho nước tương, muối, rượu nấu, miếng cá, tỏi, ớt vào đun sôi rồi giảm lửa nhỏ đun liu riu trong 10 phút;\n3. Khi cá chín và thơm thì vớt cá ra đĩa 4. Đun nóng phần súp còn lại trong nồi trên lửa lớn lần nữa, thêm bột ngọt và giấm balsamic vào, đợi đến khi nước sốt đặc lại thì rưới lên cá. miếng, và cuối cùng tôi sẽ cho bạn một số lời khuyên: sử dụng nhiệt độ cao để thu thập nước sốt, sau đó thêm giấm balsamic khi lấy ra khỏi nồi ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm Cháo mát Juxiang",
+        "tgt": "Công thức cụ thể món cháo giải nhiệt hương hoa cúc như sau: 1. Đổ nước vào nồi cháo, đun sôi trên lửa lớn, sau đó vặn lửa nhỏ, cho hoa cúc vàng vào nấu trong 15 phút, sau đó loại bỏ những bông hoa cúc vàng;\n2. Đổ gạo nếp vo tròn vào nước luộc hoa cúc Tiếp tục nấu trong 50 phút thì thêm đường phèn cho vừa miệng. Cuối cùng, tôi sẽ cho bạn một lời khuyên: tốt nhất nên đậy nắp nồi khi nấu hoa cúc để tránh bị dính. hoa cúc tan đi mùi hương.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món trứng hấp ba màu có đặc điểm gì",
+        "tgt": "Đặc điểm của trứng hấp ba màu là: màu sắc riêng biệt và hương vị tuyệt vời.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món măng khô mùa đông cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món măng khô mùa đông là: măng mùa đông · 500g\n mù tạt · 15g, và các gia vị gồm: dầu ăn · 30g\n nước tương · thìa\n nước dùng · 2 thìa\n n rượu nấu ăn·2 thìa cà phê\ntiêu·1 thìa cà phê\nmuối tinh luyện·1 thìa cà phê\nđường·tsp\nMSG·tsp",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì bổ dưỡng, có đậu thơm và thịt mềm. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không sao đâu, món ức bò om đậu nành này rất giàu dinh dưỡng, thịt mềm và thơm. Nguyên liệu bạn cần chuẩn bị là: ức bò · 400g\nĐậu nành khô ·30g\nCà rốt ·30g\nWolfberry ·10g \n 1 củ hành lá\nnguyên Gừng · 1 miếng nhỏ, gia vị gồm: dầu ăn · 30 gam\n Rượu Erguotou · thìa\n Nước kho · 3 thìa\n Tiêu · một ít\n Muối tinh · 2 thìa cà phê\n bột ngọt · 1 thìa cà phê, cụ thể Cách làm là như sau: 1. Rửa sạch và cắt ức bò thành từng miếng, để khô và chín vàng. Ngâm và rửa sạch đậu, rửa sạch và băm nhỏ gừng, rửa sạch và cắt nhỏ lá hành lá, rửa sạch, gọt vỏ cà rốt rồi cắt thành từng miếng, ngâm và rửa sạch dâu tây;\n2. thêm gừng và ức bò vào xào. Khuấy khô nước, đổ rượu và nước kho vào rồi đun trên lửa nhỏ trong 20 phút 3. Sau đó cho cà rốt, đậu nành và quả dâu tây vào đun sôi, thêm muối, bột ngọt, hạt tiêu và hành lá cắt nhỏ hầm cho đến khi ngấm gia vị rồi dùng. sẽ giúp ích. Để tăng tốc quá trình nấu thịt ức bò.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Mỳ nghêu hải sản có đặc điểm gì",
+        "tgt": "Đặc điểm của bún nghêu hải sản là: nước súp tươi ngọt, thanh nhẹ và ngon.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Những nguyên liệu và gia vị cần thiết cho món bánh bao hấp vị trứng",
+        "tgt": "Nguyên liệu cần có cho món bánh bao hấp vị trứng này là: 1 bánh bao hấp (ướp lạnh)\n1 quả trứng, và gia vị gồm: dầu ăn 300g (mức tiêu thụ thực tế: 30g)\nMuối tinh ·thìa nhỏ ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin hãy giúp tôi giới thiệu 6 món thủy sản",
+        "tgt": "Hạt hải sâm chiên cay\nDưa chua Tứ Xuyên\thông củ cải\ncà tím tươi\ncá luộc\nlê thái sợi mát lạnh",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó thơm và ngon. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không vấn đề gì, món bông cải xanh nấm kép có mùi thơm hấp dẫn và hương vị thơm ngon. Nguyên liệu cần chuẩn bị là: bông cải xanh·250g\nNấm đông cô·50g\nNấm·50g, và các gia vị là: dầu ăn·30 Gram\nSúp·2 thìa\nRượu nấu ăn·Tbsp\nMuối tinh luyện·1 thìa cà phê\nĐường·Tsp, cụ thể Cách làm như sau: 1. Rửa sạch bông cải xanh và cắt thành từng bông nhỏ; ngâm nấm cho đến khi mềm rồi bỏ cuống; rửa sạch nấm và cắt làm đôi;\n2. cho nấm vào xào vài lần rồi cho bông cải xanh vào. Khuấy đều nấm, nước dùng, rượu nấu, muối tinh và đường rồi đun trên lửa nhỏ trong 10 phút. Cuối cùng, tôi sẽ mách bạn một số mẹo. : ","context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cần những nguyên liệu và gia vị nào cho món thịt bò thái lát tôm",
+        "tgt": "Nguyên liệu cần có cho món thịt bò thái lát tôm này gồm: thịt bò·300g\nsbánh tôm·50g\nonion·10g\nginger·1 miếng nhỏ\ngarlic·3 tép\ntinh bột·lượng thích hợp, Gia vị gồm: dầu ăn· 5 00g (mức tiêu thụ thực tế 50g)\nXì dầu·1 thìa cà phê\nNước dùng·2 thìa cà phê\nRượu nấu ăn·1 thìa cà phê\nSốt Shacha·lượng thích hợp\nBột cà ri·lượng thích hợp\nMuối tinh ·1 thìa cà phê\n nĐường trắng·thìa nhỏ\nMSG ·thìa nhỏ","context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món mướp đắng đá cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần chuẩn bị để chế biến món mướp đắng đá là: mướp đắng·500g\nwolfberry·25g, và các gia vị gồm: Sprite·lượng vừa phải\nnước khoáng·lượng vừa phải\nkhông nước cam·lượng vừa phải\nđường phèn ·lượng thích hợp \nMật ong·1 thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Súp giăm bông và bí đao có đặc điểm gì",
+        "tgt": "Đặc điểm của canh giăm bông và bí đao là: nước súp rất ngon và màu sắc tươi sáng.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin hãy giúp tôi giới thiệu một số món ăn từ thủy sản",
+        "tgt": "Bắp cải thái chua cay\nBắp cải om\nLòng lạnh\nMực cuộn thì là\nTôm càng cay\nLát ốc xà cừ tẩm dầu\nTảo bẹ xắt nhỏ dầu mè\nTrứng hấp ba màu\nTôm dâm bụt",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin giới thiệu cho tôi 4 món tráng miệng và đồ ăn nhẹ",
+        "tgt": "Mì Chiết Giang\nMì Bisi\nMì lạnh Kimchi\nMì Ngọc",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món mướp đắng mặn mặn giòn có đặc điểm gì",
+        "tgt": "Đặc điểm của mướp đắng mặn là: giòn, ngon, mát lạnh, sảng khoái.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cần những nguyên liệu và gia vị nào cho món cà tím tươi",
+        "tgt": "Nguyên liệu cần có cho món cà tím thơm ngon này là: cà tím · 300g\n tỏi · 4 tép, gia vị gồm: dầu mè · 2 thìa\n nước mắm ngọt · 1 thìa\n muối tinh · 1 thìa cà phê\nMSG·1 thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món Bánh xèo tuyết ngâm có đặc điểm gì",
+        "tgt": "Đặc điểm của bánh đậu tuyết là: mềm, ngọt, xanh và tươi.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món gà Kung Pao",
+        "tgt": "Công thức cụ thể của món \"Gà Kung Pao\" như sau: 1. Thịt gà rửa sạch, thái hạt lựu, ướp với lòng trắng trứng, muối và tinh bột rồi trộn đều; rửa sạch, băm tỏi;\n 2. Đun nóng dầu ăn trong chảo. vào nồi rồi cho thịt gà thái hạt lựu vào xào chín, vớt ra để ráo nước;\n3. Để lại một ít dầu trong nồi, cho ớt khô và tỏi vào xào thơm rồi cho thịt gà thái hạt lựu vào xào. Xào \n4. Cuối cùng cho nước tương, rượu nấu ăn, bột ngọt, đường, giấm, nước, tinh bột, dầu mè vào xào đều. Cuối cùng cho đậu phộng vào xào đều. cho bạn một lời khuyên: phải cho đậu phộng vào nước sốt. Trước khi dùng, hãy vớt rau ra khỏi nồi để tránh khuấy lâu trong nồi sẽ ảnh hưởng đến độ giòn của đậu phộng",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn một ít món này. Nó cũng có thể được chế biến theo vị cay hoặc các vị khác. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không thành vấn đề, món phi lê cá nướng Yushu này cũng có thể chế biến thành gia vị cay hoặc các vị khác. Nguyên liệu cần chuẩn bị là: thịt cá trắm cỏ·200g\trái tim hạt cải·200g\ncà rốt·10g\n Ớt đỏ·1 miếng \nGừng·1 miếng nhỏ\n Tinh bột·lượng thích hợp, gia vị gồm: dầu ăn·300g (thực tế tiêu thụ 30g)\nDầu mè·1 thìa cà phê\nTiêu ·1 thìa cà phê\nMuối tinh ·1 thìa cà phê\nĐường trắng·tsp\nMSG· thìa nhỏ, cách làm cụ thể như sau như sau: 1. Rửa sạch và cắt lát gừng, tỏi, Cắt nhỏ hành lá và ớt ngâm; 2. Cá rửa sạch, thái hạt lựu, thêm hạt tiêu, muối, rượu nấu ăn và tinh bột vào, trộn đều rồi ướp;\n3. vàng nâu rồi vớt ra 4. Cho một ít dầu vào nồi, cho tiêu ngâm, gừng, tỏi, hành lá vào xào cho đến khi có mùi thơm. , cho nước kho vào đun sôi, đổ cá đã chiên thái hạt lựu vào nồi, thêm tiêu và đun nhỏ lửa trong 5 phút, cuối cùng cho rượu nấu, bột ngọt, nước tương, dầu mè vào xào một lúc, sau đó phục vụ trên đĩa Gợi ý: Hãy nhẹ nhàng khi chiên cá để tránh làm vỡ phi lê cá",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món thịt bò thì là",
+        "tgt": "Cách làm cụ thể món thịt bò thì là như sau: 1. Hành lá và gừng rửa sạch, cắt miếng; thịt bò rửa sạch, bỏ gân, rửa sạch tiết và cắt thành từng lát mỏng, ướp với muối, rượu nấu, gừng. và hành lá trong 15 phút;\n2 .Đổ dầu ăn vào nồi, khi dầu nóng khoảng 50% thì cho các lát thịt bò vào chiên giòn thơm rồi vớt ra;\n3. thêm ớt khô và hạt tiêu Tứ Xuyên vào xào cho đến khi có mùi thơm, sau đó cho các lát thịt bò vào Đảo đều và thêm nước dùng , rượu, ngũ vị hương, đường, đun sôi, cho ớt bột, thì là vào xào thơm, thêm dầu đỏ, bột ngọt, dầu mè, xào đều, cho ra đĩa, rắc vừng hạt, cuối cùng rắc một chút. Gợi ý: Mẹo xào thịt bò: Thịt bò già không dễ xào Nếu bạn phết một lớp mù tạt lên thịt bò trước khi xào, hãy ướp từ 7 đến 8 phút. giờ rồi rửa sạch bằng nước lạnh. Sau cách xử lý này, thịt bò sẽ dễ xào hơn.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món củ cải thông",
+        "tgt": "Công thức cụ thể món củ cải thông như sau: \n1. Củ cải rửa sạch, gọt vỏ, bào thành từng sợi mỏng, cho vào rổ, rắc muối tinh và ướp trong 5 phút, vắt bớt nước cay. củ cải;\n2. Thơm Rửa sạch và băm nhỏ tỏi; Khi dầu nóng, cho củ cải thái sợi vào, thêm nửa thìa muối vào xào liên tục khoảng 3 đến 5 phút, sau đó cho hành lá băm, đường, bột ngọt vào đảo đều khoảng 1 đến 2 phút thì cho ra đĩa, cho thịt băm vào. tỏi và dầu mè trộn đều. Cuối cùng, một gợi ý nhỏ cho bạn: nếu thêm chút tiêu thì sẽ rất ngon",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món cá dấm Hồ Tây cần những nguyên liệu và gia vị gì",
+        "tgt": "Nguyên liệu cần có cho món Cá dấm Hồ Tây gồm: 1 miếng cá trắm cỏ (khoảng 750 gram)\n Gừng · 1 miếng nhỏ\n Lượng tinh bột vừa phải, gia vị gồm: nước tương · 1 thìa cà phê\n Nước dùng · 2 thìa canh\n Rượu nấu ăn · 1 thìa canh\n Tiêu · 1 thìa cà phê\n Nước gừng · 1 thìa cà phê\n giấm balsamic · 1 thìa canh\n Muối tinh · 4 thìa cà phê\n Đường · 4 thìa cà phê ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cần những nguyên liệu và gia vị nào cho món thịt lợn nướng hạt dẻ",
+        "tgt": "Nguyên liệu cần có cho món Thịt lợn nướng hạt dẻ là: Ba chỉ heo · 500g\n Hạt dẻ · 500g\n Hẹ · 2 cọng\n Gừng · 1 miếng nhỏ, gia vị gồm: nước tương · muỗng canh \nRượu nấu ăn· 1 thìa\nMuối tinh ·4 thìa cà phê\nĐường·3 thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm cơm rang tỏi ớt",
+        "tgt": "Công thức cụ thể món cơm chiên tỏi ớt như sau: 1. Khuấy đều thịt thăn bò với nước tương và tinh bột rồi ướp cho vừa ăn. Cho một ít dầu vào nồi đun nóng. Cho thăn bò vào. xào một lúc thì cho dầu vào đĩa, để riêng; rửa sạch, cắt ớt xanh và đỏ thành từng miếng; rửa sạch và cắt hẹ thành hình hoa;\n2. Đun nóng một ít dầu, cho nước trứng vào chảo xào nhẹ nhàng để tạo thành những giọt trứng \n3. Đổ cơm trắng vào xào đều các giọt trứng với nhau, sau đó cho thịt thăn bò, ớt chuông xanh, đỏ thái sợi vào; hẹ xắt nhỏ và các gia vị khác Tiếp tục xào cho đến khi trộn đều. Cuối cùng, tôi sẽ mách bạn một số mẹo: sẽ ngon hơn nếu bạn dùng kèm tương ớt tỏi.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món khai vị giòn và ngon. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không sao đâu, tên món 2: Thận xào cần tây. Món này có kết cấu giòn và là món khai vị dùng kèm với rượu vang. Nguyên liệu cần chuẩn bị gồm: Thịt thăn lợn · 2 miếng\n Cần tây · 100 gram\n Ớt đỏ · 1\n Hẹ · 1 cọng\n Gừng · 1 miếng nhỏ\n Tỏi · 5 tép\n Tinh bột · Lượng vừa phải, gia vị gồm: dầu ăn · 50 gram\nDầu mè · 1 muỗng cà phê\nRượu nấu ăn · 1 muỗng canh\nMuối tinh · 1 muỗng cà phê\nĐường trắng · muỗng cà phê\nMSG · muỗng cà phê Cách làm cụ thể như sau: 1. Rửa sạch và cắt lát cần tây; ; rửa sạch, băm nhỏ hẹ và tỏi;\n2. Thịt thăn lợn cắt làm hai phần từ bên cạnh, bỏ phần lòng trắng bên trong, dùng dao cắt chéo ba lần, sau đó cắt chéo năm lần rồi cắt thành hình đuôi phượng;\n2. n3. Cho dầu vào nồi, đun nóng, cho gừng lát, hành lá băm, tỏi băm, rượu và cật heo vào xào nhanh cho đến khi chín thì đổ vào tô nhỏ;\n4. Rửa sạch nồi, đun nóng dầu, cho cần tây và ớt chuông vào xào chín tới, cho thịt thăn vào, thêm muối, bột ngọt và đường trắng vào, xào chín, thêm tinh bột nước vào, đổ dầu mè vào, vớt ra. cho vào nồi và bày ra đĩa, cuối cùng tôi sẽ cho bạn một lời khuyên: Bạn nên đập thận thật nhanh để chúng luôn giòn và mềm ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm bánh pancake trứng cam",
+        "tgt": "Công thức cụ thể của món bánh pancake trứng cam tươi như sau: 1. Cam tươi gọt vỏ, thái hạt lựu, ngâm trong sữa;\n2. Đánh trứng, thêm muối tinh, bột ngọt, đường, tươi thái hạt lựu cam, Trộn đều tinh bột;\n3. Thêm dầu vào chảo, đổ các khối cam tươi đã trộn vào, chiên trên lửa nhỏ cho đến khi có mùi thơm, múc lên và cắt thành từng miếng. Đừng thêm quá nhiều tinh bột nếu không trứng sẽ bị cứng.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cần những nguyên liệu và gia vị nào cho món cơm rang trứng vàng",
+        "tgt": "Nguyên liệu cần có cho món cơm rang trứng vàng là: cơm trắng · 300g\n quả trứng · 2\n hẹ · 1, và gia vị gồm: dầu ăn · 20g\n muối tinh · thìa canh ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món Canh Nấm Mướp có đặc điểm gì",
+        "tgt": "Đặc điểm của súp nấm và xơ mướp là: sảng khoái và thơm ngon, nhẹ nhàng và ngon miệng.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó đậm đà vị hành và xương. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không sao đâu, món sườn heo hương hành lá này có vị hành đậm đà, tràn ngập vị xương. Nguyên liệu bạn cần chuẩn bị là: Sườn non · 1000g\n Hành lá · 3 cọng\n Gừng · 1 miếng nhỏ\n Tỏi · 3 tép\nTinh bột·lượng vừa phải, gia vị gồm: dầu ăn·500g\nDầu mè·1 thìa cà phê\nXì dầu ·1 thìa\rượu nấu · 1 thìa\ntiêu·1 thìa cà phê\nđường·1 thìa cà phê\nmuối tinh ·1 thìa cà phê, cách làm cụ thể như sau: 1. Gừng rửa sạch, băm nhỏ; Làm sạch, thêm gừng, tỏi và cuối cùng cho bạn một số mẹo: món này cũng có thể hấp và ăn được.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó đẹp mắt, mềm và mịn. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không vấn đề gì, món canh nấm tươi cà chua có màu sắc đẹp mắt, mềm mịn. Nguyên liệu cần chuẩn bị gồm có: nấm sò·150g\nnấm rơm·150g\nthịt lợn nạc·150g\ncà chua·100 gam \nDưa leo·50g\nLượng tinh bột vừa đủ, gia vị gồm: nước tương·1 thìa cà phê\nNước kho·15 thìa canh\nRượu nấu ăn·2 thìa cà phê\nMuối tinh·2 thìa cà phê\nMSG·1 thìa cà phê, cụ thể Cách thực hiện như sau: 1 . Nấm sò rửa sạch, xé thành sợi; bóc bỏ lớp màng ngoài của nấm rơm, rửa sạch, trụng nhanh trong nước muối, vớt ra rửa sạch rồi thái miếng thịt nạc, trộn đều. rượu vang, nước tương, tinh bột rồi ướp trong 10 phút; Cà chua rửa sạch, cắt thành từng lát; rửa sạch và cắt dưa chuột thành từng lát chéo \n3. Cho nước luộc vào nồi, sau khi sôi thì tắt bếp, cho các lát thịt heo vào rồi bật lửa, cho nấm sò, nấm rơm và cà chua cắt lát vào nấu chung, sau đó thêm muối tinh và bột ngọt cho vừa ăn\n4 Cuối cùng, thêm các lát dưa chuột vào và đảo đều. Khi chín thì tắt bếp và thưởng thức. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Đừng cho quá nhiều nước tương, nếu không màu sắc của súp sẽ không đẹp. ","context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món thịt heo xào khổ qua sốt đậu đen",
+        "tgt": "Công thức cụ thể của món thịt heo xào mướp đắng sốt đậu đen như sau: 1. Mướp đắng cắt làm đôi, bỏ hạt, rửa sạch và cắt lát; thịt lợn rửa sạch, thái miếng, cho vào tô. , thêm nước tương và tinh bột rồi ướp trong 5 phút;\n2. Đun nóng dầu trong chảo, cho các lát thịt vào xào cho đến khi thịt chuyển sang màu trắng thì vớt ra \n3. Đun nóng lượng dầu còn lại trong nồi, cho mướp đắng vào xào vài lần, cho thịt thái lát và đậu đen vào đảo đều trên lửa lớn, cho nước kho, muối, bột ngọt và nước tương vào, giảm bớt. hạ lửa nhỏ đun nhỏ lửa trong 2 phút rồi mới cho bạn ăn. Mẹo: Đừng nấu mướp đắng quá lâu, nếu không sẽ không ngon.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món thăn bò xào tiêu cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món thăn bò xào tiêu này gồm: Thăn bò·150g\nHành tây·10g\nỚt đỏ·1\nỚt xanh·1\nGừng·1 giờ Khối\nTinh bột·Lượng thích hợp, gia vị bao gồm: dầu ăn·50g\nDầu mè·1 thìa cà phê\nTiêu·một ít\nMuối tinh ·1 thìa cà phê\nMSG·tsp",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin hãy giúp tôi giới thiệu một số món súp",
+        "tgt": "Súp ngô, củ cải và sườn heo\nSúp củ cải thái nhỏ và cá diếc\nSúp mực và sườn heo",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món đậu phụ đông lạnh hầm đỏ có đặc điểm gì",
+        "tgt": "Đặc điểm của đậu phụ đông lạnh hầm đỏ là: nước đặc, hương vị tươi ngon.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món nghêu lạnh cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món nghêu lạnh là: nghêu·600g\nớt đỏ·1\ngò·1\ngarlic·3 tép\nginger·1 miếng nhỏ, Gia vị gồm: nước tương · 2 thìa cà phê\n nấu ăn rượu vang · 1 muỗng canh\n muối tinh · 1 muỗng cà phê\n đường · 1 muỗng cà phê\n bột ngọt · muỗng cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món hộp ngó sen nhân thịt",
+        "tgt": "Công thức cụ thể của hộp ngó sen nhồi thịt như sau: 1. Củ sen rửa sạch, gọt vỏ, chần sơ, cắt thành từng lát dày, nối hai lát lại thành hình bản lề, rửa sạch và băm nhỏ. hành tây và gừng;\n2. Cho nhân thịt vào tô, thêm hành lá băm, gừng băm, nước tương, muối tinh và tinh bột nước vào trộn đều để tạo thành nhân;\n3. Trộn tinh bột nước, tro soda, bột mì và bột ngũ vị hương thành hỗn hợp sệt;\n4. Cho nhân thịt vào các lát củ sen để làm kẹp củ sen, phết một lớp bột nhão mỏng;\n5. vào nồi, đun nóng rồi cho các kẹp củ sen vào Chiên rồi lấy ra. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Đừng làm bột quá dày để không ảnh hưởng đến kết cấu của hộp củ sen. ","context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó đậm vị tỏi, giòn và ngon. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không sao đâu, món mực đôi xào này có mùi thơm tỏi nồng nàn, giòn, mềm, ngon. Nguyên liệu bạn cần chuẩn bị gồm: mực khô·200g\nMực tươi·200g\nMăng ·25g\nCà rốt·25g \nNấm tươi·25g\nVí chăn cừu·25 Gram\n Hẹ · 1 cọng\n Gừng · 1 miếng nhỏ, gia vị gồm: dầu ăn · 30 gam\n Rượu nấu ăn · thìa\n Tiêu trắng · 1 thìa cà phê\n Sốt Shacha · 2 thìa cà phê\n Dầu hào · 2 thìa cà phê \n Muối tinh · 1 thìa cà phê\n Đường · thìa\n bột ngọt · thìa cà phê, với Cách làm cụ thể như sau: 1. Khuấy bột ngô, tinh bột, lòng trắng trứng và nước thành bột; rửa sạch, băm nhỏ hành, gừng, tỏi; nhúng vào bột; 3. Đun nóng dầu và chiên các lát mực trên lửa vừa cho đến khi bề mặt chuyển sang màu vàng. Màu sắc, vớt ra để ráo;\n4. Để dầu nền vào nồi, xào hẹ, gừng, tỏi, ớt, tempeh trên lửa lớn rồi cho mực tươi thái lát, muối, tiêu, bột ngọt vào xào. nhanh và trộn đều. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Món này cần được nấu nhanh trên lửa lớn và xào đều",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách nấu cháo sườn khoai môn",
+        "tgt": "Công thức cụ thể của món cháo sườn khoai môn như sau: 1. Sườn rửa sạch, cắt thành từng miếng, chần qua nước sôi rồi để riêng; gạo vo sạch trộn với một ít dầu;\n 2. Lột bỏ vỏ khoai môn cắt thành miếng Sau đó rửa sạch, cho vào chảo dầu nóng rồi chiên trên lửa nhỏ cho đến khi lớp vỏ bên ngoài chuyển sang màu vàng thì vớt ra để ráo dầu;\n3. Cho nước vào nồi đun sôi, vặn lửa nhỏ đun khoảng 20 phút vừa khuấy đều, sau đó cho sườn vào nấu tiếp trong 30 phút\n4. tất cả các gia vị khác và trộn đều Dưới đây là một số lời khuyên dành cho bạn: Nếu bạn không thích khoai môn chiên, bạn cũng có thể dùng khoai môn hấp ","context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó thơm ngon và hấp dẫn với đậu phụ mềm. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không thành vấn đề, tên món 1: Đậu phụ thơm. Món này tươi ngon, đậu phụ mềm mịn. Nguyên liệu bạn cần chuẩn bị gồm: đậu phụ·200g\nNạc nạc·10g\nĐậu xanh·10g\nGừng· 1 Miếng nhỏ, gia vị gồm: mỡ lợn·10g\nMuối tinh·1 thìa cà phê\nMSG·1 thìa cà phê Cách làm cụ thể như sau: 1. Cắt đậu phụ thành từng lát dày và băm nhỏ thịt nạc. , gọt vỏ và băm nhỏ gừng;\n2. Cho đậu phụ vào đĩa sâu hơn, rắc thịt nạc băm, gừng băm, đậu xanh, muối tinh và bột ngọt vào nồi hấp;\n3. hấp trên lửa cao trong 5 phút, sau đó mở nắp, thêm mỡ lợn, hấp thêm 1 phút nữa và dùng. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Bạn cũng có thể dùng nhân thịt bò thay vì nhân thịt lợn.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món bò cay cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món bò cay gồm: Thịt bò·150g\nMầm tỏi·20g\nỚt đỏ·4\nGừng·1 miếng nhỏ\nTỏi·6 tép, gia vị gồm: Dầu ăn·30g\nDầu mè ·1 thìa cà phê\nRượu nấu ăn·2 thìa cà phê\nTiêu·một ít\nDoubanjiang·lượng thích hợp\nMuối tinh ·1 thìa cà phê\nMSG·tsp",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin giới thiệu cho tôi 3 món nguội",
+        "tgt": "Ba óc đậu phụ tươi\nLòng xé cay\nLòng lạnh",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Gà om măng có đặc điểm gì",
+        "tgt": "Đặc điểm của gà om măng là: đặc điểm của món ăn này",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món cà chua dâm bụt",
+        "tgt": "Công thức cụ thể của món cà chua dâm bụt như sau: 1. Cho cà chua vào chậu, trần qua nước sôi cho sạch vỏ rồi cắt thành khối vuông, thêm muối tinh và rượu nấu vào lòng trắng trứng rồi khuấy đều. ;băm hành tây;\n2. Cho dầu vào nồi, nhiệt độ dầu tăng lên 40%. Khi nóng thì cho hành tây băm vào xào thơm, sau đó cho nước trứng vào xào, thêm cà chua thái hạt lựu, đường, bột ngọt và muối tinh vào xào đều rồi rắc óc chó vào. cho bạn một số mẹo để món ăn này ngon mà không bị đặc",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó không mô tả cụ thể nhưng có thể suy ra rằng nó có vị rất ngon và thịt mềm. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không thành vấn đề, món gà Đông An không miêu tả cụ thể đặc điểm của nó, nhưng có thể suy ra là vị rất ngon, thịt mềm mịn. Nguyên liệu cần chuẩn bị là: 1 con gà (khoảng 800 gram)\n hành lá · 4 miếng\n gừng · 1 miếng nhỏ\nZanthoxylum bungeanum·lượng vừa đủ\n Hoa hồi · Lượng vừa phải\n Tinh bột · Lượng vừa phải, gia vị gồm: dầu ăn · 30 gram\n Nước kho · 2 muỗng canh\n Rượu nấu ăn · 2 muỗng cà phê\n Tiêu · một ít\n Giấm balsamic · muỗng cà phê\n Muối tinh · 1 muỗng cà phê\nĐường trắng · muỗng cà phê, cách làm cụ thể như sau: 1. Thịt gà rửa sạch để khô, cho vào nồi hấp khoảng 15 phút cho chín thì vớt ra để nguội, cắt thành miếng, thêm muối, đường rồi ướp trong 10 phút, rửa sạch, băm nhỏ hành, gừng; \n2. Đun nóng dầu rồi cho các nguyên liệu hồi và hồi vào xào trên lửa nhỏ cho đến khi có mùi thơm, cho gừng và hành lá vào xào đều, đổ rượu nấu vào xào trên lửa lớn. một vài lần\n3. Thêm nước kho, giấm balsamic, hạt tiêu, muối và đường, đun sôi và làm đặc bằng tinh bột nước. Cuối cùng, tôi sẽ mách bạn một số mẹo: Không có hướng dẫn nấu món này",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cần những nguyên liệu và gia vị nào cho món gà xé trắng",
+        "tgt": "Nguyên liệu cần có cho món gà xé trắng gồm: 1 con gà ba chỉ vàng (khoảng 1000 gram)\n Hẹ · 1 cọng\n Gừng · 1 miếng nhỏ\n Tỏi · 6 tép và gia vị là: dầu mè · 2 thìa cà phê\n giấm balsamic · 1 thìa cà phê\n Muối tinh · 1 thìa cà phê\n Đường · thìa\n bột ngọt · thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin giới thiệu giúp tôi 4 món về thịt gia cầm và các loại thịt khác",
+        "tgt": "Thỏ nướng\nCủ cải khô cay ngọt\nĐậu xanh xào khô\nHaimi và đậu đũa",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó nhẹ, giòn, hơi cay và sảng khoái. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không thành vấn đề, món bắp cải muối và gà edamame này nhẹ và giòn, hơi cay và sảng khoái. Nguyên liệu bạn cần chuẩn bị là: thịt gà·400g\nMù tạt potherb·40g\nhạt nedamame·15g\nớt đỏ·2 Mỗi thứ\nTinh bột·lượng thích hợp, gia vị gồm: dầu ăn·30g\nNước tương·3 thìa cà phê\nRượu nấu ăn ·1 thìa cà phê\nMSG·tsp. Cách làm cụ thể như sau: 1. Rửa sạch gà. , cắt thành khối vuông, cho tinh bột và nước tương vào tô, trộn đều và ướp trong 15 phút;\n2. Rửa sạch mù tạt và băm nhuyễn; \n3. Đổ dầu ăn vào nồi, thêm ớt bột và hạt edamame vào xào cho đến khi có mùi thơm 4. Cho thịt gà thái hạt lựu và mù tạt vào xào cho đến khi chín. Thêm bột ngọt và rượu nấu vào khuấy đều. . Cuối cùng, tôi sẽ cho bạn một số lời khuyên: ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cần những nguyên liệu và gia vị nào cho món tim bò chiên",
+        "tgt": "Nguyên liệu cần có cho món tim bò xào này gồm: Tim bò · 250g\n Ớt đỏ · 1 miếng\n Tiêu xanh · 1 miếng\n Gừng · 1 miếng nhỏ\n Tinh bột · Lượng vừa đủ , gia vị gồm: dầu ăn · 30 gam\n dầu mè · 1 thìa cà phê\n bột đậu · 3 thìa cà phê\n muối tinh · 1 thìa cà phê\n bột ngọt · thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó chua và ngon, cay nhưng không khô. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không sao đâu, cá trắm Trùng Khánh là món chua ngon, cay nhưng không khô. Nguyên liệu bạn cần chuẩn bị là: 1 miếng cá trắm cỏ (khoảng 1000g)\nBắp cải muối chua 250g\n1 quả trứng\n Ớt đỏ · 1\n Hẹ · 1 cọng\n Gừng · 1 miếng nhỏ\n Tỏi · 5 tép\n Hạt tiêu Tứ Xuyên · Lượng vừa đủ\n Ớt ngâm Gia vị: 1 thìa dầu ăn, 45 gam dầu ăn, 10 thìa nước dùng, 1 thìa rượu nấu ăn, 1 thìa cà phê tiêu, 1 thìa muối tinh, 1 thìa bột ngọt, Cách làm cụ thể như sau: 1. Cá trắm cỏ giết mổ, rửa sạch, cắt thành hai miếng thịt cá lớn không xương, sau đó cắt chéo thành từng lát dày; phi lê cá trộn với lòng trắng trứng và ngâm nước; Rửa và cắt dưa cải xanh thành từng phần; rửa sạch và cắt nhỏ ớt đỏ; cắt hành lá thành hành lá xắt nhỏ, cắt lát gừng và phi thơm tép tỏi;\n2. và tép tỏi phi thơm rồi đổ Thêm bắp cải xanh ngâm chua vào xào cho đến khi dậy mùi, cho nước kho vào đun sôi, cho đầu cá, xương cá, rượu nấu, muối, tiêu vào đun sôi. ;\n3. Đun sôi súp trong nồi cho đến khi có mùi vị Cuối cùng, lắc từng miếng cá vào nồi; 4. Đun nóng một chảo sạch khác, đổ dầu vào, xào tiêu đã băm nhuyễn cho thơm rồi đổ vào nồi luộc cá muối. phi lê cá, sau đó thêm bột ngọt và rắc hành lá xắt nhỏ. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Đừng dùng đũa hoặc thìa có rãnh để đảo phi lê cá quá nhiều và hãy cố gắng giữ nguyên phi lê cá. ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món gà viên cay cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món gà viên cay gồm: Thịt gà - lượng vừa phải\n Cần tây - 20 gam\n Hành lá - 2 cọng\n Gừng - 1 miếng\n Tỏi - 4 tép\n Tinh bột - vừa phải số lượng \nỚt khô - 5 miếng Gia vị gồm: dầu ăn - 30g\nNước tương - 1 thìa cà phê\nRượu nấu ăn - 1 thìa canh\nDoubanjiang - 1 thìa canh\nDấm balsamic- 1 muỗng cà phê\nMuối tinh luyện - 1 muỗng cà phê\nĐường - muỗng cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn một ít bánh nướng hạt dẻ. Nó có màu đỏ và rất ngon. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không sao đâu, món Thịt lợn kho tộ vỏ quýt này giòn với thịt nếp hạt dẻ, màu đỏ mọng thơm ngon. Nguyên liệu bạn cần chuẩn bị gồm có: Thịt ba chỉ·600g\nVỏ quýt·2g\nHẹ·1 cọng\nGừng· 1 miếng nhỏ, gia vị gồm: dầu ăn · 500g\n Nước tương · 2 thìa\nThành phần Rượu·1 thìa\nĐường phèn·1 thìa cà phê, cách làm cụ thể như sau: 1. Thịt ba chỉ rửa sạch, cắt miếng, trộn với một ít nước tương để tạo màu, cho vào chảo rán trên lửa vừa , vớt ra cho vào nước, rửa sạch mỡ; rửa sạch hành tây, cắt khúc, rửa sạch, thái lát gừng để lại một ít dầu; , xào hành lá và gừng lát cho thơm, cho thịt ba chỉ, vỏ quýt, nước tương, rượu nấu ăn, đường phèn vào, thêm nước, đun sôi thì giảm lửa và đun nhỏ lửa trong khoảng 40 phút. cho bạn một số lời khuyên: gọt vỏ hạt dẻ Bạn có thể chiên trước rồi đốt. 1. Cắt phần dưới của hạt dẻ. Luộc trong nước sôi một lúc, sau đó vớt ra, bỏ vỏ; rửa sạch, cắt khúc, rửa sạch và thái gừng 2. Thịt lợn cạo sạch, cắt thành từng khối nhỏ, cho vào nồi, cho đậu nành vào; nước sốt, rượu nấu ăn, lát hành lá và gừng cắt lát đun trên lửa lớn một lúc để tạo màu cho thịt. Sau đó cho nước vào (nên phủ đều lên bề mặt thịt). , vặn lửa nhỏ và nấu khi thịt hơi giòn thì cho hạt dẻ vào 4. Khi thịt và hạt dẻ đã giòn thì cho muối tinh và đường vào nấu sơ.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin hãy giúp tôi giới thiệu 9 món ăn liên quan đến sản phẩm từ đậu nành",
+        "tgt": "Chân om cay\nChả giò\nChuối mè\nHạnh nhân\nBánh đậu vàng\nChuối vụn\nGluen om\nVỏ đậu nhiều màu\nThanh long chiên",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món Thịt cừu hầm dưa cải bắp có đặc điểm gì",
+        "tgt": "Đặc điểm của lòng cừu hầm dưa cải là: nước đặc và hương vị đậm đà, thơm nhưng không béo ngậy.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó ngon, mềm và ngon. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không sao đâu, món nghêu lạnh rất ngon, thịt mềm và ngon. Nguyên liệu bạn cần chuẩn bị là: nghêu·600g\nớt đỏ·1\nghẹ·1\ngarlic ·3 tép\nGừng ·1 miếng nhỏ, gia vị gồm: nước tương ·2 thìa cà phê\nRượu nấu ăn ·1 thìa canh\nMuối tinh ·1 thìa cà phê\nĐường trắng ·1 thìa cà phê\nMSG· thìa nhỏ, cách làm cụ thể như sau: 1. Cho nghêu vào nước muối, nhổ cát và rửa sạch bằng nước\n2. Rửa sạch, băm nhuyễn tỏi và gừng; , bỏ cuống và cắt thành từng miếng vuông \n3. Cho nửa nồi nước vào nồi, cho ngao vào nấu trên lửa nhỏ cho đến khi ngao hé miệng. Dùng đũa gắp ra;\n4. Thêm rượu gạo, đường, nước tương, tỏi băm, hẹ và ớt đỏ vào khuấy đều. Cuối cùng, tôi sẽ mách bạn một số mẹo: cho vào tủ lạnh trước khi ăn, sẽ ngon hơn. tốt hơn; hãy dùng nước khi nấu nghêu, hãy loại bỏ những con mở ra trước để tránh thịt bị cứng theo thời gian",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cần những nguyên liệu và gia vị nào cho món cá dẹt sốt đậu đen",
+        "tgt": "Nguyên liệu cần có cho món cá dẹt sốt đậu đen này là: cá dẹt · 1\n ớt đỏ · 1\n ớt xanh · 1\n hẹ · 1\n gừng · 1 miếng \nTỏi· 2 tép tỏi, gia vị gồm: rượu nấu·tbsp\nĐậu đen·thìa canh\nMuối tinh ·1 thìa cà phê\nMSG·tsp",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó cay và ngon kết hợp với rượu vang. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không sao đâu, món tôm chiên cay thơm ngon, dùng với rượu rất hợp. Nguyên liệu cần chuẩn bị là: tôm sông · 300 gram\n hành lá · 1 củ\n gừng · 1 miếng nhỏ\n ớt khô · 5 miếng, gia vị gồm: dầu ăn · 500g (thực tế tiêu thụ 30g )\nDầu mè ·1 thìa cà phê\nXì dầu ·1 thìa cà phê\nRượu nấu ăn ·2 thìa cà phê\nGiấm balsamic ·1 thìa cà phê\nMuối tinh luyện ·1 thìa cà phê\nĐường trắng ·tsp\nMSG ·tsp, Cách làm cụ thể như sau: 1 Tôm sông cắt đuôi, rửa sạch, để riêng ớt khô. Hành lá rửa sạch, thái nhỏ; gừng rửa sạch, băm nhỏ;\n2. Đun nóng dầu trong chảo cho đến khi cao, đổ tôm vào, lật vài lần rồi vớt ra, để ráo dầu. , sau đó cho vào nồi lại, lặp lại thao tác này ba lần \n3. Để lại một ít dầu trong nồi, thêm ớt, hành lá cắt nhỏ, Xào gừng băm cho thơm, thêm muối, bột ngọt, đường, giấm balsamic, nước tương vào xào vài lần. Thêm rượu nấu vào khuấy đều. Khi nước đặc lại thì cho tôm sông vào đảo đều. - Chiên vài lần rồi rưới dầu mè cho bạn một lời khuyên nhỏ: tôm sông rất ngọt và mềm, không nên chiên quá lâu.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cần những nguyên liệu và gia vị nào cho món ốc xà cừ chiên",
+        "tgt": "Nguyên liệu cần có cho món ốc xà cừ chiên lát là: ốc xà cừ · 500 g\n tỏi · 3 tép\n hẹ · 1 cọng\n gừng · 1 miếng nhỏ\n rau mùi · 1 cọng, gia vị Có : dầu đậu phộng · 10 gam\n dầu hào · 2 thìa cà phê\n nước tương · 2 thìa cà phê\n giấm balsamic · 1 thìa cà phê\n muối tinh · 1 thìa cà phê\n bột ngọt · thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món gluten om có ​​đặc điểm gì",
+        "tgt": "Đặc điểm của gluten om là: mềm, nếp, thơm ngon và đậm đà hương thơm.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn thứ gì đó màu trắng, bóng, mềm và mịn. Bạn có thể giới thiệu cho tôi món ăn được không?",
+        "tgt": "Không thành vấn đề, món gà đập lát này có màu trắng sáng, mềm mịn. Nguyên liệu bạn cần chuẩn bị là: ức gà ·750g\nMăng mùa đông ·20g\nNấm ·20g\nHam·20g\n n Tinh bột·lượng thích hợp, gia vị bao gồm: dầu ăn·300g\ndầu mè·1 thìa cà phê\nkho ·1 thìa canh\rượu nấu ăn ·thìa canh\nmuối tinh ·1 thìa cà phê\nMSG ·tsp. Thịt ức gà loại bỏ da mỡ và gân trắng, cắt thành từng lát dày 0,4 cm, sau đó cắt thành từng lát vuông 2 cm, rắc tinh bột lên các lát gà và dùng búa đập từng lát gà thành từng lát mỏng. ;\n2 . Cắt măng đông, nấm, giăm bông thành từng lát mỏng; cho dầu vào nồi đun nóng khoảng 50%, cho các lát gà đã đánh vào cho đến khi mịn, vớt ra để ráo nước;\n3. Cho dầu vào nồi, đun nóng khoảng 70% thì cho măng và nấm vào xào chín. Thêm nước dùng, muối tinh, rượu nấu, bột ngọt và thịt giăm bông vào đun sôi. tạo bọt và thêm các lát gà. Sau khi đun sôi, thêm tinh bột vào rồi đổ vào. Thêm dầu mè và dùng. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Rắc đều tinh bột lên các lát gà, nếu không thì các lát gà đã đánh sẽ bị đặc. không đồng đều",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó thơm, mềm và ngon. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không sao đâu, món trứng xào thì là này có mùi thơm hấp dẫn, mềm và ngon. Nguyên liệu bạn cần chuẩn bị là: 4 quả trứng\nthì là 180g, và gia vị là: dầu ăn 30g\n Muối tinh · 1 thìa cà phê Cách làm cụ thể như sau: 1. Rửa sạch thì là, bỏ rễ và thân già, băm nhỏ và để riêng;\n2. Đập trứng vào tô, dùng đũa trộn đều, thêm muối tinh vào trộn đều để tạo thành nước trứng rồi để riêng;\n3. Đun nóng dầu trong nồi, đổ nước trứng vào xào cho đến khi đông lại. , thêm thì là băm nhỏ và xào nhanh cho đến khi chín. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Hãy cẩn thận khi lật trứng, nếu không hình dạng của món ăn sẽ bị hỏng.",
+        "context": {
+         "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn một số món chua ngọt, giòn và sảng khoái. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không thành vấn đề, món lê thái mát này có vị chua, ngọt, giòn, mềm, thanh mát sảng khoái. Nguyên liệu bạn cần chuẩn bị là: Yali·300g\nBánh táo gai·50g, các gia vị: ngọt mát chua - lượng vừa phải, Cách làm cụ thể như sau: 1. Rửa sạch, gọt vỏ, bỏ hạt và cắt lê thành từng miếng nhỏ;\n2. Cắt bánh táo gai thành từng lát hình kim cương rồi đặt dưới đáy đĩa;\n. n3. Trộn những miếng lê với muối, đường và giấm rồi đặt lên những lát táo gai. Cuối cùng, tôi sẽ cho bạn một số lời khuyên: ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn một ít đồ ăn màu đỏ táo, ngọt, mặn và êm dịu. Bạn có thể giới thiệu cho tôi một món ăn được không?",
+        "tgt": "Không sao đâu, món thịt heo nướng có màu hạt dẻ, ngọt, mặn, êm dịu. Nguyên liệu bạn cần chuẩn bị là: thăn · 500g\n hẹ · 1 cọng\n gừng · 1 miếng, gia vị gồm: Dầu ăn · 500 gam (tiêu thụ thực tế 50 gam) \n Nước tương · 2 thìa cà phê \n Rượu nấu ăn · 3 thìa cà phê \n Muối tinh · 1 thìa cà phê \n Đường trắng · 1 thìa cà phê Cách làm cụ thể như sau: 1. Hành, gừng rửa sạch, thái miếng dài, thêm nước tương, muối, rượu nấu ăn, hành, gừng rồi ướp trong 2 tiếng;\n2. cho đến khi nó chuyển sang màu hạt dẻ rồi lấy ra \n3. Để lại một ít dầu trong nồi, sau đó cho thịt đã chiên vào, cho nước ướp và nửa bát nước vào nấu trên lửa nhỏ khoảng nửa tiếng, thêm đường, chuyển sang lửa lớn, đợi nước cốt đặc lại. (khoảng nửa bát nước ép), cho thịt vào đĩa, để nguội, cắt thành từng lát mỏng xếp ra đĩa, đổ phần nước còn lại trong nồi lên trên thịt. Cuối cùng, tôi sẽ cho bạn một ít. Lời khuyên: khi cắt thịt lợn nướng, hãy nhớ thực hiện theo chiều ngược lại của thớ thịt, nếu không thịt sẽ không dễ nhai",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món thịt hộp tiêu cay",
+        "tgt": "Công thức cụ thể của hộp thịt tiêu như sau: 1. Thịt nạc và thịt mỡ rửa sạch rồi băm nhỏ; ớt xanh và ớt đỏ rửa sạch, cắt bỏ cuống, bỏ hạt; gừng và hành tây rửa sạch. rồi băm nhỏ;\n2. Lọc lấy lòng trắng trứng cho vào tô, thêm thịt heo băm, gừng băm, hành lá băm vào trộn đều và thêm một chút muối, tiêu. Nêm bột và bột ngọt;\n3. Đổ thịt băm vào ớt xanh và ớt đỏ; cho dầu vào nồi, khi nóng 30% thì cho ớt xanh và ớt đỏ vào xào từ từ cho đến khi chín. Khi chiên ớt, nhiệt độ dầu không được quá cao và thời gian chiên không quá lâu để tránh bị cháy.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó mặn và cay, có thịt nếp và hương vị thơm ngon. Bạn có thể giới thiệu cho tôi một món được không?",
+        "tgt": "Không sao đâu, món thịt thỏ kho này mặn cay, thịt dẻo thơm ngon. Nguyên liệu bạn cần chuẩn bị là: thịt thỏ · 300 gam\n hành lá · 2 cọng\n gừng · 1 miếng nhỏ \n tỏi · 5 tép \nTinh bột·lượng thích hợp, gia vị gồm: Mỡ gà·1 thìa canh\nDầu mè·1 thìa cà phê\nXì dầu·2 thìa cà phê\nNước dùng·5 thìa canh\nBột tiêu·2 thìa cà phê\nTương ớt·1 thìa canh\nMuối tinh ·1 thìa cà phê\n bột ngọt · thìa nhỏ, cách làm cụ thể như sau: 1. Cắt thịt thỏ thành từng dải dài; rửa sạch, thái hành, tỏi, gừng \n2. Đun nóng nồi, cho dầu gà vào, khi dầu nóng khoảng 60% thì cho hành, tỏi, gừng vào đảo đều. xào cho thơm rồi cho thịt thỏ thái sợi vào tương ớt, tiêu bột, xì dầu, muối, nước luộc \n3. Sau khi đun sôi, hớt bọt và nấu trên lửa nhỏ cho đến khi thịt mềm và đặc. Thêm bột ngọt, dầu mè và làm đặc với tinh bột nước. Cuối cùng, tôi sẽ cho bạn một lời khuyên: thịt thỏ tươi có vị hơi tanh. Vì vậy hãy nấu chín trước khi nấu. Thịt thỏ ngâm trong nước 1 tiếng trước khi nấu.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v.",
+        }
+    },
+    {
+        "src": "Tên món ăn 2: Món cháo bát bảo bổ dưỡng cần những nguyên liệu và gia vị nào",
+        "tgt": "Tên món 2: Cháo bát bảo bổ dưỡng. Nguyên liệu cần có cho món này gồm: gạo nếp - 150g\nĐào bảo quản-15g\nKẹo chà là-15g\nKẹo hạt sen-25g\nQuả mơ bảo quản-25 gram\nDải bí mùa đông-25g\nHạt óc chó-25g\nBánh táo gai-25g, gia vị gồm: sốt quế- Lượng thích hợp\nLượng đường trắng phù hợp",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin hãy giới thiệu cho tôi 8 món ăn chính",
+        "tgt": "Cháo hạt sen Bihe\n Cháo cải xanh, trứng muối và vịt\n Cháo đầu cá tươi thơm\n Cháo thơm hoa cúc giải khát\n Cháo Zhuangyuan và số 1\n Thịt thái lát và cá muối cháo\n Gạo nếp thơm bát bảo\n Hoa trứng Cháo thịt bò",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món chim cút hấp nấm cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món Cút hấp nấm là: Chim cút · 400g\n Nấm · 15g\n Chà là đỏ · 10g\n Wolfberry · 5g\n Hẹ · 3 cọng\n Gừng · 1 miếng nhỏ\n n Tinh bột·lượng thích hợp, gia vị gồm: dầu ăn·8g\nDầu mè·1 thìa cà phê\nSốt hàu·1 thìa cà phê\nRượu nấu ăn·1 thìa cà phê\nTiêu · 1 thìa cà phê\nMuối tinh ·1 thìa cà phê\n Bột ngọt · thìa nhỏ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách nấu canh bí đao và sườn heo",
+        "tgt": "Công thức cụ thể món canh bí đao sườn heo như sau: 1. Sườn heo rửa sạch, trụng qua nước sôi cho hết huyết, vớt ra để ráo nước; rửa sạch gừng; cắt khúc bí đao thành từng lát dày.\n2. Cho nước vào nồi, thêm sườn và gừng vào, đun sôi trên lửa lớn, sau đó đun nhỏ lửa trong 40 phút. Khi sườn chín thì cho các lát bí đao vào \n3. Sau khi bí đao chín thì cho muối tinh, bột ngọt và dầu mè vào",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn thứ gì đó có màu đỏ sẫm, mặn và cay. Bạn có thể giới thiệu cho tôi món ăn được không?",
+        "tgt": "Không sao đâu, món cánh gà rang khô có màu đỏ đậm, mặn và cay. Nguyên liệu bạn cần chuẩn bị là: cánh gà · 400 gam\n quả trứng · 2\n hẹ · 2 cọng\n gừng · 1 miếng nhỏ \nTỏi·8 tép, gia vị gồm: dầu ăn·50g\n Nước tương · 1 thìa cà phê\n Nước dùng · 2 thìa canh\n Rượu nấu ăn · 1 thìa canh\n Tiêu · thìa cà phê\n Bột đậu · 1 thìa canh\n Muối tinh · 1 thìa cà phê\n Đường · thìa\n bột ngọt · thìa nhỏ, cái Cách làm cụ thể như sau: 1. Nêm cánh gà với muối, rượu nấu và tiêu. , lòng trắng trứng và tinh bột, trộn đều và ướp; rửa sạch và băm nhỏ hành, gừng, tỏi \n2. Đun nóng dầu trong nồi cho đến khi nóng 60%, cho từng cánh gà vào chiên cho đến khi vàng nâu; lấy ra; \n3. Cho vào nồi Trong dầu nền, xào đậu cho đến khi chuyển sang màu đỏ, cho nước luộc vào nấu một lúc thì vớt ra. , thêm cánh gà, gừng, tỏi, hành lá, ớt, nước tương, rượu nấu ăn, đường, muối, nấu cho đến khi thấm gia vị, thêm bột ngọt, sau đó làm đặc nước sốt rồi bày ra đĩa. Bạn có một số mẹo: chiên cánh gà nấu chín dễ hút nước nên hãy nhớ tránh để chúng bị khô khi lấy nước cốt",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món cánh gà khô nướng có đặc điểm gì",
+        "tgt": "Đặc điểm của cánh gà rang khô là: có màu đỏ sẫm, vị mặn và cay.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món tôm càng cay cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món tôm càng cay bao gồm: tôm càng tươi · 500 gam\n hẹ · 3 cọng\n gừng · 1 miếng\n tỏi · 6 tép\n Hạt tiêu Tứ Xuyên · 1 thìa\nỚt khô · 6 miếng, gia vị gồm: dầu mè · 1 thìa cà phê\n Rượu nấu ăn · 1 thìa canh\n giấm balsamic · 1 thìa cà phê\n Muối tinh · 1 thìa cà phê\n bột ngọt · thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Tên món 1: Món Canh Bò Hồ Tây cần những nguyên liệu và gia vị nào",
+        "tgt": "Tên món 1: Canh bò Hồ Tây. Nguyên liệu cần có cho món này là: thịt bò nạc · 100g\n đậu phụ · 100g\n trứng · 1\n rau mùi · 1, gia vị: tiêu ·1 thìa cà phê\nTinh chất muối ·2 thìa cà phê\nMSG ·1 thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin hãy giúp tôi giới thiệu 9 món ăn về thịt gia cầm và các loại thịt khác",
+        "tgt": "Cút hấp nấm\nVịt muối om củ cải\nCà chua dâm bụt\nThịt chó cay\nBồ câu hương sen\nTôm bắp cải\nThịt bầu rau\nCủ sen giòn\nĐậu đũa om",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món da tôm cay có đặc điểm gì",
+        "tgt": "Đặc điểm của da tôm cay là: màu xanh, vị tươi mát.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món bào ngư chín lỗ đa hương vị",
+        "tgt": "Công thức cụ thể của món \"Bào ngư chín lỗ đa vị” như sau: 1. Bào ngư chín lỗ rửa sạch, cho vào tô, thêm muối và 1 bát nước, ngâm trong 10 phút rồi vớt ra. cho vào nước sôi nấu chín, để ráo nước Lấy ra, cho vào đĩa rồi rưới nước sốt lên. Cuối cùng, tôi sẽ mách bạn một số mẹo: trước khi nấu, bạn có thể cho bào ngư chín lỗ vào tủ lạnh để thịt co lại. và làm cho kết cấu giòn hơn; nấu bào ngư chín lỗ, thời gian nấu không nên quá lâu để thịt không bị già”.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món cá vũ xương hấp cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món cá vũ xương hấp gồm: 1 con cá vũ xương (khoảng 600g)\nGiăm bông luộc·25g\nNấm hương xào nước·50g\nMăng mùa đông·50g\nHẹ·1 cây\nGừng·1 Miếng nhỏ, gia vị gồm: dầu ăn · 30 gam\n mỡ lợn · 2 thìa cà phê\n mỡ gà · 1 thìa cà phê\n nước dùng · lượng thích hợp\n rượu nấu ăn · 2 thìa cà phê\n hạt tiêu · 1 thìa cà phê\n muối tinh ·1 thìa cà phê \nMSG ·tsp",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món Bò Kho Cà Chua có đặc điểm gì",
+        "tgt": "Đặc điểm của thịt bò nướng cà chua là: hương vị độc đáo và hương vị thơm ngon.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món bò cay cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món bò cay là: thịt bò · 200g\n đậu phụ · 200g\n đậu Hà Lan · 50g\n hẹ · 2 cọng\n tỏi · 6 tép, gia vị gồm: Dầu ăn·30g \nBột ớt·1 thìa canh\nZanthoxylum bungeanum·1 thìa canh\nĐậu nành đen·1 thìa cà phê\nMuối tinh luyện·1 thìa cà phê\nMSG·1 thìa cà phê",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Xin giới thiệu cho tôi 9 món súp",
+        "tgt": "Súp mực và sườn heo\nSúp đậu phụ và thịt viên\nSúp nấm và thịt viên\nCơm bò củ cải\nSúp củ sen và sườn heo\nTim lợn hầm với nhãn\nSúp súp lơ và cá diếc\nSúp cá chép và cá chép thái nhỏ\n Súp sườn tảo bẹ",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Cách làm món gà hầm",
+        "tgt": "Cách nấu món gà hầm địa phương cụ thể như sau: 1. Rửa sạch và cắt chân gà thành từng miếng, chiên trong dầu cho chín, vớt ra để ráo nước;\n2. Rửa sạch và thái lát gừng và tỏi; rửa sạch ớt;\n3. Cho dầu vào nồi, xào gừng và tỏi cho thơm rồi cho ớt và miếng thịt gà vào xào, thêm rượu nấu, nước tương, đường và lượng nước thích hợp vào nấu. khoảng 15 phút cho đến khi gà có mùi thơm;\n4. Đun nóng nồi, cho gà đã luộc vào và rắc rau mùi. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Nếu bạn cho gà vào chảo dầu và chiên chín thì cho vào nồi đun nhỏ lửa. Mùi thơm mạnh hơn",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món gan gà xào xơ mướp cần những nguyên liệu và gia vị nào",
+        "tgt": "Nguyên liệu cần có cho món gan gà xào mướp gồm: luffa·200g\ngà·gan·200g\ncarrot·50g\nginger·1 miếng nhỏ\ntinh bột·lượng vừa đủ, gia vị gồm : Dầu ăn ·25g\nDầu mè ·1 thìa cà phê\nRượu nấu ăn ·1 thìa cà phê\nTiêu·một nhúm\nMuối tinh ·1 thìa cà phê\nĐường·tsp\nMSG·tsp",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Món Gà Lát Búa có đặc điểm gì",
+        "tgt": "Đặc điểm của Lát gà búa là: trắng và bóng, mềm và mịn.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Đặc điểm của Rau chân vịt Guotai là gì?",
+        "tgt": "Đặc điểm của rau muống trồng trong chậu là: mịn, mềm và có màu sắc thơm ngon.",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    },
+    {
+        "src": "Hôm nay tôi muốn ăn món gì đó màu đỏ và bóng, béo nhưng không béo. Bạn có thể giới thiệu cho tôi món ăn được không?",
+        "tgt": "Không sao đâu, món thịt kho tộ có nước sốt màu đỏ tươi, béo nhưng không béo ngậy. Nguyên liệu bạn cần chuẩn bị là: 1000 gram thịt ba chỉ\n 2 củ hành lá\n 1 miếng gừng\n 2 hồi\n 1 miếng quế\n3 quả ớt khô, gia vị gồm: 1 thìa xì dầu\n1 thìa rượu nấu\n1 thìa đường phèn, cách làm cụ thể như sau: 1. Thịt lợn rửa sạch, cắt thành từng miếng lớn, đảm bảo mỗi miếng đều có da, mỡ và thịt nạc; rửa sạch, cắt hành lá thành từng khúc, rửa sạch và thái lát \n2. để lửa vừa. Chất béo trong thịt sẽ thấm dần ra ngoài và cần đảo liên tục. Khi thịt chín vàng đều các mặt thì vớt ra để riêng \n3. Để dầu nền trong nồi, đổ đường phèn vào nấu trên lửa nhỏ cho đến khi tan và chuyển sang màu vàng thì tắt bếp, cho thịt heo đã chiên vào nồi trộn đều sao cho từng miếng thịt được phủ đều đường. màu\n4. Cho hành tây, gừng, hồi, quế và ớt đỏ khô vào nồi, thêm rượu nấu ăn, nước tương và nước ấm ngập mì thịt, đậy nắp nồi và đun sôi, giảm nhiệt và đun nhỏ lửa trong 40 phút, cho đến khi chín. thịt đã chín và nước súp đặc lại Được rồi. Cuối cùng, tôi sẽ cho bạn một lời khuyên: Hạt nhục đậu khấu, đinh hương, hạt tiêu, quả cỏ, lá nguyệt quế, v.v. đều là những sự kết hợp tốt cho món thịt lợn om, nhưng không nên thêm quá nhiều. nhiều để không làm mất đi hương vị của thịt",
+        "context": {
+            "system": "Bạn là đầu bếp năm sao, người giỏi trả lời mọi câu hỏi về công thức nấu ăn, bao gồm gợi ý món ăn, lựa chọn nguyên liệu, phương pháp cụ thể, v.v."
+        }
+    }
+]
