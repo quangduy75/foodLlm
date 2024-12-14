@@ -28,7 +28,6 @@ function searchJSON() {
   // Hiển thị kết quả tìm kiếm
   displayResults(results);
 }
-
 // Hàm hiển thị kết quả tìm kiếm
 function displayResults(results) {
   const resultsContainer = document.getElementById("results");
@@ -41,17 +40,18 @@ function displayResults(results) {
       const resultElement = document.createElement("div");
       resultElement.classList.add("result-item");
 
-      // Hiển thị thông tin
+      // Thay thế ký tự xuống dòng (\n) bằng thẻ <br> trong nội dung
+      const contextSystem = result.context.system.replace(/\n/g, "<br>");
+
       resultElement.innerHTML = `
         <div class="result-card">
-     
+         
           <p><strong>Target:</strong> ${result.tgt}</p>
-     
+       
         </div>
         <hr>
       `;
 
-      // Thêm kết quả vào container
       resultsContainer.appendChild(resultElement);
     });
   }
