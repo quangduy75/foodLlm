@@ -40,9 +40,9 @@ function displayResults(results) {
     results.forEach(result => {
       const resultElement = document.createElement("div");
       resultElement.innerHTML = `
-        <p><strong>Source:</strong> ${result.src}</p>
+       
         <p><strong>Target:</strong> ${result.tgt}</p>
-        <p><strong>Context:</strong> ${result.context.system}</p>
+     
         <hr>
       `;
       resultsContainer.appendChild(resultElement);
